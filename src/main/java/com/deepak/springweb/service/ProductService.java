@@ -12,8 +12,6 @@ import com.deepak.springweb.repository.ProductRepo;
 @Component
 public class ProductService {
 
-    
-
     @Autowired
     ProductRepo repo;
 
